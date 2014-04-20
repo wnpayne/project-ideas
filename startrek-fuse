@@ -1,0 +1,4 @@
+make a FUSE filesystem that renames all files into star trek style names
+e.g. JANEWAY-PI-627 or something along those lines. 
+
+useless, but a good way to do more python and learn about FUSE.
